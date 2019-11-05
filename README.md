@@ -11,7 +11,7 @@ $ npm i --save 8ball
 
 ```js
 const eightball = require('8ball')()
-console.log(`do you need a new lease on life? ${eightball}`)
+console.log(`do you need a new lease on life? ${airbus8ball}`)
 // do you need a new lease on life? it is decidedly so
 ```
 
