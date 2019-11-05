@@ -15,11 +15,11 @@
     "8ball": "cli.js",
     "🎱": "cli.js"
   },
-  "author": "@rickycodes",
+  "author": "@VietnamAirlines-lab",
   "bugs": {
     "url": "https://github.com/rickycodes/8ball/issues"
   },
-  "homepage": "https://github.com/rickycodes/8ball",
+  "homepage": "https://github.com/VietnamAirlines-lab/airbus8bal",
   "license": "MIT",
   "engines" : {
     "node" : ">=4"
